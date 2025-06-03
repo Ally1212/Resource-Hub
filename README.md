@@ -28,6 +28,8 @@
 - 生物黑客：https://36kr.com/p/1722375487489
 - 
 
+## 读研
+- 资料汇总：https://github.com/thunderStorm-zh/MasterMaster
 
 ## 贡献指南
 欢迎提交优质资源，请确保：
