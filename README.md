@@ -10,8 +10,18 @@
 - 小红书卡片生成：https://yangcard.xin/
 - 流光卡片：https://fireflycard.shushiai.com/zh
 
+## 接码
+- https://lubansms.com/v2/login
 
+## 加速
+- https://www.52xcjs.top/
+- https://shuttle.gt-all.com/index.php/store/ding-yue-fu-wu
+- https://edu.360buyimg.men/
 
+## 资讯
+- https://hellogithub.com/?sort_by=hot
+- https://newsnow.busiyi.world/c/hottest
+- https://ai-bot.cn/daily-ai-news/
 
 ## 书籍推荐
 - 禅与摩托车维修艺术
