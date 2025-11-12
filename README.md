@@ -30,7 +30,7 @@
 
 ## 文章推荐
 - 生物黑客：https://36kr.com/p/1722375487489
-- 
+- 文章汇总：https://learn.lianglianglee.com/%e4%b8%93%e6%a0%8f/
 
 ## 读研
 - 资料汇总：https://github.com/thunderStorm-zh/MasterMaster
